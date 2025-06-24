@@ -1,0 +1,18 @@
+.back{
+    background: rgb(82, 118, 82);
+}
+.main-body{
+    background: rgb(238, 233, 225);
+}
+.another-body{
+    background: rgb(224, 220, 214);
+}
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.card-title{
+    height:3em;
+}
+.lines{
+    color:rgb(82, 118, 82);
+}
