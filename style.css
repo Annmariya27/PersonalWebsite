@@ -16,3 +16,12 @@ body{
 .lines{
     color:rgb(82, 118, 82);
 }
+.bar{
+    margin-left:4em;
+    padding-top:.15em
+
+}
+.scroll{
+    width:60em;
+    height:30em
+}
